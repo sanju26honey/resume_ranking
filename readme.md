@@ -1,3 +1,22 @@
+# AI powered Resume Ranking and Analysis system
+
+### Developed by [Sanju](https://sanju26honey.github.io) as a Final Project for AICTE internship on AI: TechSaksham, A Joint CSR initiative of MICROSOFT & SAP.
+
+### Let's Connect:
+
+Linkedin: [@Sanju26](https://www.linkedin.com/in/sanju26/)
+
+Github: [@Sanju26Honey](https://github.com/sanju26honey)
+
+---
+## About this project
+
+This project uses Natural Language Processing to analyze resumes, match them with a given Job Description and rank them accordingly.
+
+## Usecase
+
+This can be used by both Recruiters and applicants alike. Recruiters can use this to rank resumes based on the given job description. While Applicants can use this to analyze their resumes, find missing keywords and wordcloud analysis.
+
 ## Installation
 To run this project locally, follow these steps:
 
