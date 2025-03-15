@@ -6,6 +6,5 @@ nltk
 wordcloud
 matplotlib
 pytesseract
-PIL
 pdfplumber
 numpy
