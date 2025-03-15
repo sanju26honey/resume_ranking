@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altair==5.5.0
 anyio==4.8.0
 argon2-cffi==23.1.0
@@ -150,3 +151,17 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
 wordcloud==1.9.4
+=======
+streamlit
+PyPDF2
+pandas
+sklearn
+re
+nltk
+wordcloud
+matplotlib
+io
+pytesseract
+PIL
+pdfplumber
+>>>>>>> 69f886fd429986b6d41ef12285fd469ed42d085f
