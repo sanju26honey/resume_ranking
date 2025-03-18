@@ -1,5 +1,6 @@
 # AI powered Resume Ranking and Analysis system
 ### Live Demo: [resumerankerandanalyzer.streamlit.app](https://resumerankerandanalyzer.streamlit.app/)
+(You can use resumes and job description given in Samples folder)
 
 ### Developed by [Sanju](https://sanju26honey.github.io) as a Final Project for AICTE internship on AI: TechSaksham, A Joint CSR initiative of MICROSOFT & SAP.
 
